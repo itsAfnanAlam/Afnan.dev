@@ -21,7 +21,7 @@ const Header = () => {
 				<a href="/#about">About</a>
 				<a href="/#projects">Projects</a>
 				<a href="/#contact">Contact</a>
-				<a href="#https://drive.google.com/file/d/1nSI4ZfPDfgDSfesDa9iHY_ph6N4oWEsq/view"
+				<a href="https://drive.google.com/file/d/1nSI4ZfPDfgDSfesDa9iHY_ph6N4oWEsq/view"
         target={"_blank"} rel="noreferrer">Resume</a>
 				<button
 					className="nav-btn nav-close-btn"

@@ -9,10 +9,10 @@ import Projects from "./Components/Projects/Projects";
 function App() {
   return (
     <>
-      <div id="turn">
+      {/* <div id="turn">
         <img src="/img/rotatePhone.png" alt="" />
         <h1>Please rotate your devices!</h1>
-      </div>
+      </div> */}
       <div className="App" id="container">
         <Header />
         <Home />
