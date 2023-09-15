@@ -153,7 +153,11 @@ a:nth-child(3):hover {
 
   .home__top__right {
     top: 13%;
-    right: 20%;
+    right: 15%;
+  }
+
+  .title {
+    font-size: 3.3rem;
   }
 
   .home__top__left {
@@ -165,6 +169,7 @@ a:nth-child(3):hover {
   .resume  button{
     width: 40%;
     margin: 0 auto;
+    padding:  5% 20%;
   }
 
   .home__bottom {
